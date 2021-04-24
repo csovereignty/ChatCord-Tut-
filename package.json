@@ -7,7 +7,7 @@
     "start": "node server", 
     "dev": "nodemon server"
   },
-  "author": "Chris Pishaki",
+  "author": "Chris B",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
